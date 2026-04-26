@@ -212,6 +212,8 @@ Le mot de passe secret est :
 ```
 Thanks for all the fish
 ```
+<img width="284" height="632" alt="image" src="https://github.com/user-attachments/assets/c3794313-4d4a-4bad-a5af-f32ce67bea8a" />
+
 
 > 💡 Référence au roman de science-fiction "Le Guide du voyageur galactique" de Douglas Adams.
 
