@@ -176,6 +176,7 @@ or a         ← 🚨
 ll tf        ← 🚨
  fisf        ← 🚨
 ```
+<img width="1087" height="694" alt="strings" src="https://github.com/user-attachments/assets/6ce20bf5-8325-4fb0-a134-a8dd6967e5ef" />
 
 **Observation :** La chaîne secrète est fragmentée dans le binaire pour rendre l'analyse plus difficile. En assemblant les fragments :
 
