@@ -251,3 +251,4 @@ L'analyse statique seule suffit pour résoudre ce challenge. Sans exécuter l'ap
 3. Extraire le secret avec la commande `strings` sur `libfoo.so`
 
 **Mot de passe trouvé : `Thanks for all the fish`**
+on peut utiliser la methode avec guidra plus simple(voir lab5.png)
